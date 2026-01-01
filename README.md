@@ -4,6 +4,7 @@
 ### Smart Meal Planning from Your Ingredients
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
+[![Java](https://img.shields.io/badge/Language-Java-red.svg)](https://www.java.com/)
 [![API](https://img.shields.io/badge/Min%20API-21-blue.svg)](https://developer.android.com/about/versions/lollipop)
 [![License](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
 
