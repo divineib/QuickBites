@@ -7,9 +7,37 @@
 [![API](https://img.shields.io/badge/Min%20API-21-blue.svg)](https://developer.android.com/about/versions/lollipop)
 [![License](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
 
-[Features](#features) • [Screenshots](#screenshots) • [Installation](#installation) • [Tech Stack](#tech-stack) • [Architecture](#architecture)
+[Features](#features) • [Screenshots](#screenshots) • [Download](#download) • [Installation](#installation) • [Tech Stack](#tech-stack) • [Architecture](#architecture)
 
 </div>
+
+---
+
+## 📥 Download
+
+### Quick Install (Recommended)
+
+**Latest Release: v1.0.0**
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/divineib/QuickBites/releases/latest/download/QuickBites-v1.0.0.apk)
+
+**Direct Download:** [QuickBites-v1.0.0.apk](https://github.com/divineib/QuickBites/releases/latest/download/QuickBites-v1.0.0.apk)
+
+### Installation Steps
+
+1. Download the APK file from the link above
+2. On your Android device, go to **Settings > Security**
+3. Enable **Install from Unknown Sources** (if not already enabled)
+4. Open the downloaded APK file
+5. Tap **Install** and follow the prompts
+6. Open QuickBites and start discovering recipes!
+
+**System Requirements:**
+- Android 5.0 (Lollipop) or higher
+- ~10 MB storage space
+- Internet connection for recipe search
+
+**Note:** This is an unsigned APK. Your device may show a warning, which is normal for apps not from the Play Store.
 
 ---
 
